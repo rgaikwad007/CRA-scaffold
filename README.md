@@ -3,6 +3,10 @@ This repository contains the basic setup for create react app using Webpack and 
 
 Clone or download the repository to your local hard drive.
 
+### `Installation`
+
+Run `npm install` from root directory to install all the node modules.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
