@@ -1,0 +1,26 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-text-color: #333;
+$primary-background-color: #1976d2;
+$color-white: #FFF;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-text-color;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 200px;
+  background-color: $primary-background-color;
+  color: $color-white;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.section {
+  margin: 20px 10px;
+  font-size: 20px;
+  text-align: center;
+}
